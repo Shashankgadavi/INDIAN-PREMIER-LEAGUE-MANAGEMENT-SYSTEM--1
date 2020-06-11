@@ -1,0 +1,20 @@
+#banner-img{ padding-top: 75px;
+             padding-bottom: 50px;
+             text-align: center;
+             color: #f8f8f8;
+             background-image: url("img/stadium.jpg");
+             background-size: cover;
+             height: 100%;
+            }
+
+.caption{ color:#414f5e;
+         padding:0px 10px 10px;
+         font-weight: bold;
+         text-align: center;
+         background-color: lightgoldenrodyellow;}
+.thumbnail{border-color: lightgoldenrodyellow;}
+.header{ font-family: Libre Baskerville;
+        font-style:italic;
+        font-size: 50px;
+        color:#00cc33;
+        margin-bottom: 100px;}

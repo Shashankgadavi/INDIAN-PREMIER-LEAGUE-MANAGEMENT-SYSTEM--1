@@ -1,0 +1,26 @@
+#banner-img{ padding-top: 75px;
+             padding-bottom: 50px;
+             text-align: center;
+             color: #f8f8f8;
+             background-image: url("img/stadium.jpg");
+             background-size: cover;
+             height: 557px;
+            }
+.header{ font-family: Libre Baskerville;
+        font-style:italic;
+        font-size: 50px;
+        color:#ccccff;
+        margin-bottom: 100px;}
+h5{font-size: 40px;
+        color:crimson;}
+p{font-size: 120%;
+    color:chocolate;}
+.table{
+    border-radius: 10px;
+    background: #ccccff;
+    padding: 20px;
+    }
+    a{color:black;}
+#search{border-radius: 10px;
+        margin-top: 7px;
+        }
